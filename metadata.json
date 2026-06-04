@@ -1,0 +1,6 @@
+{
+  "name": "NetSim",
+  "description": "A comprehensive network device status monitoring and simulator platform implementing the OpenAPI Swagger specification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
